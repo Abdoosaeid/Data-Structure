@@ -15,7 +15,7 @@ This repository contains C++ implementations of common data structures, providin
 
 List of implemented data structures:
 
-- [Linked List](https://github.com/Abdoosaeid/Data-Structure/blob/master/Linked_listcpp)
+- [Linked List](https://github.com/Abdoosaeid/Data-Structure/blob/master/Linked_list.cpp)
 - [Stack](https://github.com/Abdoosaeid/Data-Structure/blob/master/Stack.cpp)
 - [Queue](https://github.com/Abdoosaeid/Data-Structure/blob/master/queue.cpp)
 - [Binary Tree](https://github.com/Abdoosaeid/Data-Structure/blob/master/binaryTree.cpp)
